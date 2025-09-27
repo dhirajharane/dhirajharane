@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👨‍💻 About Me:
 Full Stack Developer (MERN Stack), proficient in React.js and Node.js, and an AI/ML undergraduate.  
 I have hands-on experience in Machine Learning, Deep Learning, GenAI, and Next.js, building scalable web applications and AI-powered solutions.
 
